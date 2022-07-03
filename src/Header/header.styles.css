@@ -1,0 +1,13 @@
+.header{
+    height: 12vh;
+    border-bottom: 1px solid;
+}
+.logo{
+    width: 9%;
+}
+.search-bar{
+    margin-left: "14%";
+    width: "25%";
+    border-radius: 3px;
+    border-style: ridge;
+}

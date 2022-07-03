@@ -1,0 +1,30 @@
+
+.home{
+    display: flex;
+    flex-direction: column;
+    
+    width: 100%;
+    /* background-color: aquamarine; */
+    height: 90vh;
+}
+#light{
+    background-color:#ffffff;
+}
+#dark{
+    background-color:#0c0a23;
+    color: white;
+}
+.player-container{
+    width: 60%;
+    margin-top: 1%;
+}
+.player{
+    width:100%;
+    height: 70vh;
+}
+.name, .ctime{
+    display: inline;
+}
+.name{
+    margin-left: 1rem;
+}
